@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'lato','serif';
+}
+.portfolio{
+    padding: 50px;
+}
+.portfolio__heading{
+    background-color: gray;
+    color:white;
+    padding:25px;
+
+}
+.portfolio__heading button{
+    background-color: orange;
+    padding : 10px;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    display: inline-block;
+    margin-top: 10px;
+    text-decoration: none;
+}
+.portfolio__heading-role{
+    margin-top: 10px;
+}
+.portfolio__description,.portfolio__sec1,.portfolio__sec2,.footer{
+    margin-top: 20px;
+}
+.portfolio__desc__desc,.portfolio__sec1__desc,.portfolio__sec2__desc,.footer__2{
+    margin-top: 10px;
+}
+.footer{
+    background-color: gray;
+    padding: 10px;
+    color: white;
+}
+.footer__1 a{
+    color:brown;
+}
+.portfolio__sec1__desc,.portfolio__sec2__desc{
+    list-style: none;
+}
+.portfolio__sec1{
+    background-color: #6462fd;
+    color:black;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.portfolio__sec2{
+    background-color: #fe7517;
+    padding: 20px;
+    display: inline-block;
+    height: 200px;
+    border-radius: 10px;
+    vertical-align: top;
+}
+.contact__title{
+    background-color: gray;
+    color:white;
+    padding:25px;
+
+}
+.footer__contact{
+    background-color:gray;
+    padding:10px;
+    color:white;
+    margin-top: 30px;
+}
+.contact__title a{
+    background-color: maroon;
+    color: white;
+    padding: 5px ;
+    border-radius: 3px;
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
+.contact__s1__1,.contact__s1__2,.contact__s1__3,.contact__s1__4{
+    margin-top: 10px;
+    
+}
+
+.contact__s1__1,.contact__s1__2{
+    border:none;
+    border-bottom: solid black 1px;
+    padding: 10px;
+}
+.contact__s1__3{
+    padding: 10px;
+    border:solid black 1px;
+    margin-top: 10px;
+}
+.contact__s1__4{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: royalblue;
+    color: black;
+    border:none;
+    border-radius: 3px;
+    display: inline-block;
+}
